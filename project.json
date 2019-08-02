@@ -1,0 +1,7 @@
+{
+  "cdnList": ["Cdn"],
+  "cdnUrl": {
+    "Default": "localhost:3001",
+    "Cdn": "localhost:3002"
+  }
+}
